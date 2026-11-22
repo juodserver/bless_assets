@@ -1,0 +1,15 @@
+Hall architectural modules and source textures: KCISA - Hwaseong Fortress Gates.
+Source: https://www.fab.com/listings/7115e5f1-5bfd-4efb-9bd5-8917a92693c4
+Creative Commons Attribution 4.0 (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+Downloaded by the project owner; original UE packages remain in the staging project.
+
+Adaptations by Blesscloud: selected gatehouse modules; roof mesh reduction;
+source-art BGR to RGB restoration; resized and toned textures; single-storey hall
+composition; clear front entrance; original fortress and gate signboards omitted.
+Plain lattice windows and the new main-hall plaque are application-created.
+Buddhist statues, mural, altar and prayer cushions are credited separately;
+see INTERIOR-CREDITS.txt for the current main/side sculpture sources and mural.
+
+Build-only tools (not included in APP): raw-unreal 0.1.12 (MIT),
+meshoptimizer 1.3.0 (MIT), ooz-wasm 2.0.0 (GPL-3.0-or-later).

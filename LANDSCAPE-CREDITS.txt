@@ -1,0 +1,17 @@
+Outdoor garden models and textures: KCISA - Bogildo Island Seyeonjeong Pavilion.
+Source: https://www.fab.com/listings/1b218798-b574-4353-82a7-0ae8bc253ff9
+Downloaded by the project owner. Creative Commons asset, as confirmed by owner.
+Adaptations: selected models only; mesh simplification; resized source textures;
+new compact garden arrangement and terrain. Original pavilion/demo map not used.
+
+Paving, timber walkway, benches and stone lanterns: application-created geometry.
+No Kenney Holiday Kit models or palette textures are used in this garden.
+Existing temple, statues, monk and application interactions retained separately.
+
+Outdoor stone incense burner: 3D Assets, CC0 1.0 Universal.
+https://3dassets.dev/assets/imperial-china-palace-and-garden-stone-incense-burner-68da1dc2
+Original GLB: https://cdn.3dassets.dev/assets/36190/v1/model.glb
+Modified: remove lid and baked sticks; resize; add application-owned ash and plinth.
+
+Build-only tools (not included in APP): raw-unreal 0.1.12 (MIT),
+meshoptimizer 1.3.0 (MIT), ooz-wasm 2.0.0 (GPL-3.0-or-later).
