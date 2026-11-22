@@ -1,0 +1,258 @@
+{
+  "cdnBase": "https://cdn.jsdelivr.net/gh/juodserver/bless_assets@ba576edcdace718e1d476e285fe5d4e8a0d9d9b4/",
+  "integrity": {
+    "scene.bundle.js": "sha384-guWtIadjt+IhNWSfGnkXXepVPMFq59NE7kB6jQ28XI+t+q+PtkBAy4tzHVBT8ZKW",
+    "portable/assets_models_avalokitesvara_glb_part0.js": "sha384-LV6kFZNstenh64hrzXDNOjO4p9+rSHMToVR14Ns77ZWPMdmENbdHeepMpNnSqwIe",
+    "portable/assets_models_avalokitesvara_glb_part1.js": "sha384-jlGwavh1ztH7hNvC453/KiAykcYZhiPc1V5sR6SAcR9zUAJyisA8yeGlbBoMN8+C",
+    "portable/assets_models_avalokitesvara_glb_part2.js": "sha384-WDRTulFbvpU+tFgAOClCyHz62wDrCHBMVOL1CeqC3aPykoVsnuN32PW9EVdX1V42",
+    "portable/assets_models_avalokitesvara_glb_part3.js": "sha384-UmP1eY9kn1XCfp41yP56y/cN9lVjc03bpJy42xytMJTgoZXBqdmhUCIZ8KBj5tj4",
+    "portable/assets_models_buddha_glb_part0.js": "sha384-V3wmMjUpJIYF4SCjMFHmzOautwkBXKlqJbWwHvj7I5mCTz77eJjt13BieJ3PrZ66",
+    "portable/assets_models_buddha_glb_part1.js": "sha384-Xaje6mohyHzXcU4zkSvigAvZ7DY8jF4xtt+zFXG8k0K7z+/P6PR6XG3j8Is/W9a2",
+    "portable/assets_models_buddha_glb_part2.js": "sha384-CogggFS6uW/uCzUwEHbN+4TjjMare8lLuowuHvWBVJPC6MM6zM11MnaxA37MNsG5",
+    "portable/assets_models_buddha_glb_part3.js": "sha384-A78LGXA2/BADyWVENwZG8DQ43skhc8svmgEqqQ3RFgqOJE30LzGe1IoMOIXqIIoz",
+    "portable/assets_models_caishen_tripo_glb_part0.js": "sha384-EH6JgdyO77EZrk+kRRlG46SdBgxc+P7zZXK5eJ11ckVHIrzHG8w/fBl4VQA9Yd05",
+    "portable/assets_models_caishen_tripo_glb_part1.js": "sha384-NoC43jMdFNen6dKhlPxxBadrg+97GvbtmbN+okKLiHryokDxavs1TcYkjJL9cwIT",
+    "portable/assets_models_caishen_tripo_glb_part10.js": "sha384-kcG10RTMCAkGB+7gNwsHmD2lOJW+cliY9Sty58RLXtqckRIbXhHtwhhCGKkhhwDg",
+    "portable/assets_models_caishen_tripo_glb_part11.js": "sha384-2kC6wzqy4swhyHvlhsH6pKCp9JnvdpEcCRsDorp+sIys7CjNsBPQ9SucCErhis9U",
+    "portable/assets_models_caishen_tripo_glb_part12.js": "sha384-fLgwLxCknV9DB/kgnuBgyn7MTViilqJqRbPjj+/z7+nUTwpjP/l1btiS1VtDMAyG",
+    "portable/assets_models_caishen_tripo_glb_part13.js": "sha384-qJb1IZVwepljWbvGskuNxzNTUJMcW0SMg9aFP7ZCrQ9nPowSLYfyvE676YUg9DNA",
+    "portable/assets_models_caishen_tripo_glb_part14.js": "sha384-pnSKl0/LcBkTt4TqbFiJ2wkhN+DGgSDp9MYFnHD1VJmOy6yJ0K85EEKoTvlJps+Y",
+    "portable/assets_models_caishen_tripo_glb_part15.js": "sha384-NO1gNhhmi86dPvcLl+EykY/Gn0Qoaa8LBv9avj/eLh2Q8BD2N8xpkNYo4HnQ+8d6",
+    "portable/assets_models_caishen_tripo_glb_part16.js": "sha384-pPFT7uEuM4bSpGobcDQF6bmoP8jkLqDge3vDBcbhxlnWt0qnTYb3HTqs0Ix/3NZj",
+    "portable/assets_models_caishen_tripo_glb_part17.js": "sha384-jVuDGc8ceKbvw7aG1UvFuHaVBGqr6Xb1RXnZAs0AJsOUUvHJYJ7kozBX06aTa0qF",
+    "portable/assets_models_caishen_tripo_glb_part18.js": "sha384-TwPoDY5ttw0hswPW8vydFjTV+x0LLLWQijyxy+NmhhiY0T8bh3WemLqNKECn03Qa",
+    "portable/assets_models_caishen_tripo_glb_part19.js": "sha384-jVCEfVkQPIjFgsysizZJtMDG1FW6B+y6aseyqyTOw16o9OiSkwWQTbGpKuDlaKu0",
+    "portable/assets_models_caishen_tripo_glb_part2.js": "sha384-t+A1Kc6hLjkQAb8r0P7rdm0W4qm6O3snWpQqtXlfPcsumab2tYeacYzuwbZaLS6A",
+    "portable/assets_models_caishen_tripo_glb_part20.js": "sha384-a3AuvQHPbP1nBcevaVzGpBosKfnT5H3G8cDcZxLJD30I+gKu9RHYbSNWbV8PJcDz",
+    "portable/assets_models_caishen_tripo_glb_part21.js": "sha384-vDGIDYEe6GdHGYv7S+n8pH3aiU2NEE74OcVLLSDtu7u/x+90q7R/LJP8B0SRvEQ3",
+    "portable/assets_models_caishen_tripo_glb_part3.js": "sha384-o2+vrCnulEjTDkK7Hdv555LGc0s3rrwt63iuD1BiS/X7+PJvHaWtNg4/88Rv/pwa",
+    "portable/assets_models_caishen_tripo_glb_part4.js": "sha384-O+QbjWrEscNvcg1rDII9qGL68w0vyV+4DQ6ZI4/IPahngg9keabGVJQxqNNga72O",
+    "portable/assets_models_caishen_tripo_glb_part5.js": "sha384-oD2+7B1qr4f2w05IgzNylU1oc8fEiCe2KciF3Yp9M6CiFXZG907qOUO8/gHfCGY6",
+    "portable/assets_models_caishen_tripo_glb_part6.js": "sha384-ApW2cVMEtJRN0RYPVY2qJkFXW3LYK7Kx9CF5DMmyCI3kVwd4QtyE8RpFs2gZybJl",
+    "portable/assets_models_caishen_tripo_glb_part7.js": "sha384-oLjYTIRyn4wnziIr5JrUKE6Z4BX/IOutFEtv7J33V2eiwKWD+YJiALKLRcsw4Zib",
+    "portable/assets_models_caishen_tripo_glb_part8.js": "sha384-0L2MzmRrYYOmCJmjSGBjd3aUwji00ldr/FCDSad/UY/2DyhK54gRUNnPWbDL3220",
+    "portable/assets_models_caishen_tripo_glb_part9.js": "sha384-ZbXdyYnZ889/IS1k1qNtPQODK/hZooEbeLFN9OuC8jNbKuizeOapCYXIMEGoCRqJ",
+    "portable/assets_models_censer_stone_glb.js": "sha384-xzBKnEEa0L31RpJMjK9M+22gRcruBSnlpD4hW0GzCgIX2GqPcD0xL+ZPKYit1u24",
+    "portable/assets_models_mahastamaprapta_glb_part0.js": "sha384-r2IaIGGw1+zdl9MJIMq/MZK4/y2MH7QnuHSYClePbTDYCL2kiFx11EE6WUmTJGIt",
+    "portable/assets_models_mahastamaprapta_glb_part1.js": "sha384-JX9L0TBxL2r82cJuZr3vgIEBoALZHPek18llVr+n1FH7ScYtdO6TSRtsNhTBPWLL",
+    "portable/assets_models_mahastamaprapta_glb_part2.js": "sha384-Yx9RjfSn7lpMLOaX+4oROPR6ft0nE7KnDEt+E3kGsYz34XUG74OhPcHFIMCkhWVd",
+    "portable/assets_models_mahastamaprapta_glb_part3.js": "sha384-dGPMThC1RIIfWDciZVBHpn3+TudDFDs4ZDJkmAZevs88bEh92k3Y6pj0QpZcLAEb",
+    "portable/assets_models_novice_female_glb_part0.js": "sha384-DikytzKlkzIiQgZ5h0c73pldNxHRkKtxaalZDvI+sNnFOylR7IsxnM97RHP7eyIn",
+    "portable/assets_models_novice_female_glb_part1.js": "sha384-pjSoIoUT7kxPUwt5jeQTv9NTXOrblL621XxNhm0KhNthP1Yvr2rKHTVoQnl9kflN",
+    "portable/assets_models_novice_female_glb_part2.js": "sha384-48wU+dQ/z6p7yN2cq9u5fhyFHWGu7mUqB2OohaV/Uyg6qNIFLRtOsAj+RQQBtrmG",
+    "portable/assets_models_novice_female_glb_part3.js": "sha384-ryhh+rAvVpFuk+093q2nRFtexFtivVEn07WlinJp32+dOSGhm1sn/rHwX2ejniY9",
+    "portable/assets_models_novice_female_glb_part4.js": "sha384-8KR2RxSqgK2hZ6yfR+j4La99iowFAZOUSsjo9PyabspS42qGqGGcbcpYxDZsJML4",
+    "portable/assets_models_novice_female_glb_part5.js": "sha384-GhRspPBc8ddMY/tuRpAd5/T1FQkOdG5nvJMhzGtOf0lcQBmoh9o7bxAbrIZ/fcLy",
+    "portable/assets_models_novice_male_glb_part0.js": "sha384-tv3WIn5l97/VYguKElE0X47T6xLJGq1580SZ7mGDXhFEXAg0oihUdXPTiU18Vmjm",
+    "portable/assets_models_novice_male_glb_part1.js": "sha384-CS9n4l5yqFl7O3/XiVoNPVUf2adO5eAMtlgsFx7FIeoIiEdHWY/Oz2TZCUn9PoRR",
+    "portable/assets_models_novice_male_glb_part2.js": "sha384-XJnfRdv+zY/Y0pOHr+TaLLr5/FBk7QNJOdSPwgmt6/7qXJoK5P96J0V7HHhfsf/C",
+    "portable/assets_models_novice_male_glb_part3.js": "sha384-5yLLzTA30NjQNAdL9Cm/WRIfxqejdojg/Rw9WeBP0XTvqXrdSattUkTc/0pribYn",
+    "portable/assets_models_novice_male_glb_part4.js": "sha384-fsujiNvyaoTbqYWzpRj270TnsKBAkH7MQB0JDiu+k//xQGwq05XvOICGxbYH4o9H",
+    "portable/assets_models_novice_male_glb_part5.js": "sha384-5zM6E0VcClFGArGTsCMddK+a983ob5iq8qDBz5AejniSVuMlq8znf9E0JDszpPke",
+    "portable/assets_models_temple_garden_glb_part0.js": "sha384-BqwNNwdTSN0wce49h0Uwn9q4cfAb/21a37WDjFg71xIWhrdKj7c9E290Weadmm2D",
+    "portable/assets_models_temple_garden_glb_part1.js": "sha384-Lp/ZOBAhlHcdfve4qc3rKNOZQ1EtqehgA5nq++BYeyNvUW3o2iw2+EamyZ/UL6Sr",
+    "portable/assets_models_temple_garden_glb_part2.js": "sha384-KcPPly+uKwkASx9I+POprZo97qsKTatmH9HCQBS0AGLb3GQmHxJnZ1faQun5BQjn",
+    "portable/assets_models_temple_garden_glb_part3.js": "sha384-PDlHsjGx1wcwLGr9d5tkCQ8+uqpR+FwGI9NdSvn9DfYaKjP+mqqY0/7Jtx+VPSP3",
+    "portable/assets_models_temple_garden_glb_part4.js": "sha384-/NY6Ad3qBFS9ui5qoUB4srmQC9FvLI8x0rw+YxWxdokTLhQabibK3yItI7uCI+3b",
+    "portable/assets_models_temple_garden_glb_part5.js": "sha384-bmS9U4DaL2GKNmcv2QGAMy+4rzP5mY/J1eyl++VGRwTldZwm20P2iLniAy1hqXeq",
+    "portable/assets_models_temple_garden_glb_part6.js": "sha384-q9yLsE4vPti4B6/btRoNsXprZxhSzTfJNOzj2k2pYMV3KpU8R4IKDVn+MSTxfz7p",
+    "portable/assets_models_temple_garden_glb_part7.js": "sha384-kzAEhLEsY3Qhe160QA0QGSgaAatH0gpKYLra3169IMeYAaDr6xWxWm95bOypWd84",
+    "portable/assets_models_temple_hall_glb_part0.js": "sha384-EZZwJ6kEYD102sEpLKbakEQ6V7jLP7Y44cIljzVz6/Y9c/lLP3DFyuorORfUT8kR",
+    "portable/assets_models_temple_hall_glb_part1.js": "sha384-x5obiUyL93MSysFK2gSGzdX0Dg4mAcMSAhfJ6TTa+0PWv2w25J1tzx20tFl7SCaD",
+    "portable/assets_models_temple_hall_glb_part2.js": "sha384-AIiBzwGJ2F5gfQrOlh0uQUCKGLgsIqIpyS1MRA52l+dsjgGw4D/RXNdX+FRaYaGa",
+    "portable/assets_models_temple_hall_glb_part3.js": "sha384-t6LphyG9BWgClbafuwlD24TTuGK6mAX6izS9ziOpwbQBuFcszDNtdxKeXkqjwxzh",
+    "portable/assets_models_temple_hall_glb_part4.js": "sha384-FXzpZQpTIKalrXyT2UKxuiYRE7QZVcl1L1a8hk1s/vqBjNaUcUdirYFay9wyVTvb",
+    "portable/assets_models_yuelao_tripo_glb_part0.js": "sha384-MvkvZg6/4p2hd7vkN7c6nuRRk4BWtzACnVtJDODTvb86E/1NWy0161kEsKW/5eZT",
+    "portable/assets_models_yuelao_tripo_glb_part1.js": "sha384-kzrol1Cxr24N3B4I0je0j83b5cu5tmXe6tZ5JpKVh0wjLEiCRlDE0fMCB2V4WTWk",
+    "portable/assets_models_yuelao_tripo_glb_part10.js": "sha384-n18uLcZGySbClfvuRjZMhWOkdUlIzHLsZX6+JHTTU9jtLcAHLZTDmZqb25HiB7pI",
+    "portable/assets_models_yuelao_tripo_glb_part11.js": "sha384-PvikW8pwI3akk/DRYKC7EK67GG306e8L1+34StWhhnQwmiXvBkiN5/AJu7IsITcw",
+    "portable/assets_models_yuelao_tripo_glb_part12.js": "sha384-xN3jffIOIO5ZO7mzyXAhxmR7UD4DvQ61twp5Cv8xiR8auZOa78HdL9iwX5Bkrfwu",
+    "portable/assets_models_yuelao_tripo_glb_part13.js": "sha384-dvQ+2mm0P1qAtdHU+qtHYetg+UnPgHWuen6ABPwtCLcuYtAfT+RALHlzm0KVakc1",
+    "portable/assets_models_yuelao_tripo_glb_part14.js": "sha384-oZcJQ7CJs48JkvNqCims4PB/nylsBR1cXWaGxHZSENkfKW/nftT50jTQESslqrGF",
+    "portable/assets_models_yuelao_tripo_glb_part15.js": "sha384-nDSRj3ZLg/4+MFV2XHP1uBemtPGd9QDJQXKnuv/ywNM+iH3YSSxPZ7hkfMH5ZU/M",
+    "portable/assets_models_yuelao_tripo_glb_part16.js": "sha384-phkPyz9s+miH9EqxX6dRXiwoQwCKKGGRLJL47zl+rFYvpP11dWDPDsz3DmIDE7C2",
+    "portable/assets_models_yuelao_tripo_glb_part17.js": "sha384-KXOAxtA6wHs4C9FzvK6bBU8jZr7GdBRZ9yZDstM5LcOTHADgexdIoCYN5JucGH5T",
+    "portable/assets_models_yuelao_tripo_glb_part18.js": "sha384-fMDNBl0vq3P5ZtKMZO/oa/1HSN1n973dEIeRE33HB4oBSmnTzGCFTku8gvGyeVBf",
+    "portable/assets_models_yuelao_tripo_glb_part19.js": "sha384-F5NlIQlE83hIalBMgf5BQpgedqPMDsUFPl82J27vt/ORvHctud/VTiGfAdHpu0oY",
+    "portable/assets_models_yuelao_tripo_glb_part2.js": "sha384-1JXJv4t863+tdEAQ35bB1hTqWhpt73PdFXwjHpSqZHfOnlJqeQfktxbJaZqHJkJ7",
+    "portable/assets_models_yuelao_tripo_glb_part20.js": "sha384-SssCcOX3KUmlpKvU+7fTLrgfj7qjV6/RAa3ZxmtqbLDGzqBpDA/wUwH//Eg0lgOt",
+    "portable/assets_models_yuelao_tripo_glb_part21.js": "sha384-3Yelr+eWdGmILmK36LILHM2BkBNS/X0pGRGh/Ue+8O5vC5Zd+TJRP3jrx89gqf1j",
+    "portable/assets_models_yuelao_tripo_glb_part22.js": "sha384-fFrOYW8OkeL7KBn0bwQMOKUrQcp8nPpF1EQm/Qt9Gc0PKOraH6XH8Vy4e9dak1wO",
+    "portable/assets_models_yuelao_tripo_glb_part3.js": "sha384-laR1vDhUj7Vb16S+XOWELjNouJJXGyW+u16hp6w9SgfRn0B/3RN16DU/Mlt6jHtw",
+    "portable/assets_models_yuelao_tripo_glb_part4.js": "sha384-gRj49PfGIdAAy/NBarc6x9bwK/oQC/zGHTsR3PeyYNHgiS2/iw1t3+ouxdqvnxYD",
+    "portable/assets_models_yuelao_tripo_glb_part5.js": "sha384-g+jbWfTiJAVnMW+pOpCuoHMKdR0BJilEZYHY268VBLREuwVarh4wGAvTrnYObR0W",
+    "portable/assets_models_yuelao_tripo_glb_part6.js": "sha384-H+xbCKxuvMd8ofaKq+qzDHCycg2ob6zX0xYVqq83U3mLOAxMOqSO3An7ZPUlO/CA",
+    "portable/assets_models_yuelao_tripo_glb_part7.js": "sha384-XVt74GsCz+ISQ2/bSfKX2FArpLw4AcKv8okBrzzWE0MeLXFwGb8No+tsITqhJrd1",
+    "portable/assets_models_yuelao_tripo_glb_part8.js": "sha384-aDrk10PEdsjznLWT8CqnUoh25N5CL4KKvO/9kdUwm0cVMg4oEq3ypS9gMwNtLk/W",
+    "portable/assets_models_yuelao_tripo_glb_part9.js": "sha384-XK5qcGnuFA94e0kzscKS39fgpDtr7GOr4P8VURwEV4flvKMkJ0RWdrCc/AzCpHZg",
+    "portable/assets_textures_altar_lotus_clouds_jpg.js": "sha384-8FXHHTElDNGNSw/xjCLmtr9/LG8fLddRJwpgjYdkMlWjr77eQpAEDrfM6XWLuTGG",
+    "portable/assets_textures_cloth_color_jpg.js": "sha384-bchhaifc3AeNzWIzSBSmm9NwZn9/nzlLDeIX/RNEjzVLHt1bxUMFPP+OkMABRR2A",
+    "portable/assets_textures_cloth_normal_jpg.js": "sha384-YpaHGeUussSIl17eTpcswMl9obyYaaxrYIk2XMxmqQlUWzLkTpImWj0SWWmhxEwG",
+    "portable/assets_textures_cloth_roughness_jpg.js": "sha384-xQd7uGR9T5QapILncPbBoNr0JGUtbf99knYCoxANHJrZx2ASm+X6zjDL4cF5YaqO",
+    "portable/assets_textures_plaster_color_jpg.js": "sha384-LMtLKgczOlEYyO6Q48L5cRwKjvuMyqXRQmYux7mVaMaxSvrxMWeKGRec8FdfDOyB",
+    "portable/assets_textures_plaster_normal_jpg.js": "sha384-JKuHhSJap2c99ZTbqvhMOUIebTFw922SSp4JYAkRWX61s0dG77BSsNUkRQZ//swb",
+    "portable/assets_textures_plaster_roughness_jpg.js": "sha384-MYgJA/vo2n+gZhjKbgYPcis5xhdJGDekikG8jPmEoFdh6Dtq9DVzNmYZKlqoE26x",
+    "portable/assets_textures_roof_color_jpg.js": "sha384-iV33K20B+AU0BckfUPxXhUhQNObnI0SL/T7CAPOGLFw3YyPntjIjQWYBROMo3zRb",
+    "portable/assets_textures_roof_normal_jpg.js": "sha384-b6OXVmGCdP8WGtLXAYM0RoPAiRQ9T9TPgX90YnCulECSvr6IXFy8RTwMl+y9H2wd",
+    "portable/assets_textures_roof_roughness_jpg.js": "sha384-li/ZONGhcqx9kXK54Eiug4+pZyzW8JHj3m3+3laVivcc3plKXZaNeCcuU28Z6Up9",
+    "portable/assets_textures_stone_color_jpg.js": "sha384-lc2C2LeyNAxnEEi0VSjTjn/HdrVXc/Awmiqic386IPOsxlhzFCccXNi0tyz8vfWN",
+    "portable/assets_textures_stone_normal_jpg.js": "sha384-6blgUzWdxqF1/PtC+KkZv2nhDPivZKi2Lwgb/Ry/JJPwYCaeAv5bSezIstdQcS+D",
+    "portable/assets_textures_stone_roughness_jpg.js": "sha384-6wQPyLE+Ygbluzp3to1nEMOQdbfD6WZgE1tSOjC3fMASDCBkjO1Zpx5B2QzjLdBH",
+    "portable/assets_textures_wood_color_jpg.js": "sha384-ekXz524qH6MNOdO3/fjq1EUn8l9xA/SBKD0QZINAsBbMcGH2D6fVVh1mUQj4IWJs",
+    "portable/assets_textures_wood_normal_jpg.js": "sha384-sFaQF2jMmpMiYk86jHr9lKKwuwfOKMANv/SYJi17DEk0umwdsCAKnoca2Q8mkAgV",
+    "portable/assets_textures_wood_roughness_jpg.js": "sha384-i7PirfHnE9WuQXWJKz38gGHEWtmyeSyA2Rq7XPLUxWpDyMslBJc5NZUSgSMs5jEo"
+  },
+  "assetScripts": {
+    "assets/models/buddha.glb": [
+      "portable/assets_models_buddha_glb_part0.js",
+      "portable/assets_models_buddha_glb_part1.js",
+      "portable/assets_models_buddha_glb_part2.js",
+      "portable/assets_models_buddha_glb_part3.js"
+    ],
+    "assets/models/avalokitesvara.glb": [
+      "portable/assets_models_avalokitesvara_glb_part0.js",
+      "portable/assets_models_avalokitesvara_glb_part1.js",
+      "portable/assets_models_avalokitesvara_glb_part2.js",
+      "portable/assets_models_avalokitesvara_glb_part3.js"
+    ],
+    "assets/models/mahastamaprapta.glb": [
+      "portable/assets_models_mahastamaprapta_glb_part0.js",
+      "portable/assets_models_mahastamaprapta_glb_part1.js",
+      "portable/assets_models_mahastamaprapta_glb_part2.js",
+      "portable/assets_models_mahastamaprapta_glb_part3.js"
+    ],
+    "assets/models/novice-male.glb": [
+      "portable/assets_models_novice_male_glb_part0.js",
+      "portable/assets_models_novice_male_glb_part1.js",
+      "portable/assets_models_novice_male_glb_part2.js",
+      "portable/assets_models_novice_male_glb_part3.js",
+      "portable/assets_models_novice_male_glb_part4.js",
+      "portable/assets_models_novice_male_glb_part5.js"
+    ],
+    "assets/models/novice-female.glb": [
+      "portable/assets_models_novice_female_glb_part0.js",
+      "portable/assets_models_novice_female_glb_part1.js",
+      "portable/assets_models_novice_female_glb_part2.js",
+      "portable/assets_models_novice_female_glb_part3.js",
+      "portable/assets_models_novice_female_glb_part4.js",
+      "portable/assets_models_novice_female_glb_part5.js"
+    ],
+    "assets/models/temple-garden.glb": [
+      "portable/assets_models_temple_garden_glb_part0.js",
+      "portable/assets_models_temple_garden_glb_part1.js",
+      "portable/assets_models_temple_garden_glb_part2.js",
+      "portable/assets_models_temple_garden_glb_part3.js",
+      "portable/assets_models_temple_garden_glb_part4.js",
+      "portable/assets_models_temple_garden_glb_part5.js",
+      "portable/assets_models_temple_garden_glb_part6.js",
+      "portable/assets_models_temple_garden_glb_part7.js"
+    ],
+    "assets/models/censer-stone.glb": [
+      "portable/assets_models_censer_stone_glb.js"
+    ],
+    "assets/models/temple-hall.glb": [
+      "portable/assets_models_temple_hall_glb_part0.js",
+      "portable/assets_models_temple_hall_glb_part1.js",
+      "portable/assets_models_temple_hall_glb_part2.js",
+      "portable/assets_models_temple_hall_glb_part3.js",
+      "portable/assets_models_temple_hall_glb_part4.js"
+    ],
+    "assets/models/yuelao-tripo.glb": [
+      "portable/assets_models_yuelao_tripo_glb_part0.js",
+      "portable/assets_models_yuelao_tripo_glb_part1.js",
+      "portable/assets_models_yuelao_tripo_glb_part2.js",
+      "portable/assets_models_yuelao_tripo_glb_part3.js",
+      "portable/assets_models_yuelao_tripo_glb_part4.js",
+      "portable/assets_models_yuelao_tripo_glb_part5.js",
+      "portable/assets_models_yuelao_tripo_glb_part6.js",
+      "portable/assets_models_yuelao_tripo_glb_part7.js",
+      "portable/assets_models_yuelao_tripo_glb_part8.js",
+      "portable/assets_models_yuelao_tripo_glb_part9.js",
+      "portable/assets_models_yuelao_tripo_glb_part10.js",
+      "portable/assets_models_yuelao_tripo_glb_part11.js",
+      "portable/assets_models_yuelao_tripo_glb_part12.js",
+      "portable/assets_models_yuelao_tripo_glb_part13.js",
+      "portable/assets_models_yuelao_tripo_glb_part14.js",
+      "portable/assets_models_yuelao_tripo_glb_part15.js",
+      "portable/assets_models_yuelao_tripo_glb_part16.js",
+      "portable/assets_models_yuelao_tripo_glb_part17.js",
+      "portable/assets_models_yuelao_tripo_glb_part18.js",
+      "portable/assets_models_yuelao_tripo_glb_part19.js",
+      "portable/assets_models_yuelao_tripo_glb_part20.js",
+      "portable/assets_models_yuelao_tripo_glb_part21.js",
+      "portable/assets_models_yuelao_tripo_glb_part22.js"
+    ],
+    "assets/models/caishen-tripo.glb": [
+      "portable/assets_models_caishen_tripo_glb_part0.js",
+      "portable/assets_models_caishen_tripo_glb_part1.js",
+      "portable/assets_models_caishen_tripo_glb_part2.js",
+      "portable/assets_models_caishen_tripo_glb_part3.js",
+      "portable/assets_models_caishen_tripo_glb_part4.js",
+      "portable/assets_models_caishen_tripo_glb_part5.js",
+      "portable/assets_models_caishen_tripo_glb_part6.js",
+      "portable/assets_models_caishen_tripo_glb_part7.js",
+      "portable/assets_models_caishen_tripo_glb_part8.js",
+      "portable/assets_models_caishen_tripo_glb_part9.js",
+      "portable/assets_models_caishen_tripo_glb_part10.js",
+      "portable/assets_models_caishen_tripo_glb_part11.js",
+      "portable/assets_models_caishen_tripo_glb_part12.js",
+      "portable/assets_models_caishen_tripo_glb_part13.js",
+      "portable/assets_models_caishen_tripo_glb_part14.js",
+      "portable/assets_models_caishen_tripo_glb_part15.js",
+      "portable/assets_models_caishen_tripo_glb_part16.js",
+      "portable/assets_models_caishen_tripo_glb_part17.js",
+      "portable/assets_models_caishen_tripo_glb_part18.js",
+      "portable/assets_models_caishen_tripo_glb_part19.js",
+      "portable/assets_models_caishen_tripo_glb_part20.js",
+      "portable/assets_models_caishen_tripo_glb_part21.js"
+    ],
+    "assets/textures/wood-color.jpg": [
+      "portable/assets_textures_wood_color_jpg.js"
+    ],
+    "assets/textures/wood-normal.jpg": [
+      "portable/assets_textures_wood_normal_jpg.js"
+    ],
+    "assets/textures/wood-roughness.jpg": [
+      "portable/assets_textures_wood_roughness_jpg.js"
+    ],
+    "assets/textures/stone-color.jpg": [
+      "portable/assets_textures_stone_color_jpg.js"
+    ],
+    "assets/textures/stone-normal.jpg": [
+      "portable/assets_textures_stone_normal_jpg.js"
+    ],
+    "assets/textures/stone-roughness.jpg": [
+      "portable/assets_textures_stone_roughness_jpg.js"
+    ],
+    "assets/textures/roof-color.jpg": [
+      "portable/assets_textures_roof_color_jpg.js"
+    ],
+    "assets/textures/roof-normal.jpg": [
+      "portable/assets_textures_roof_normal_jpg.js"
+    ],
+    "assets/textures/roof-roughness.jpg": [
+      "portable/assets_textures_roof_roughness_jpg.js"
+    ],
+    "assets/textures/plaster-color.jpg": [
+      "portable/assets_textures_plaster_color_jpg.js"
+    ],
+    "assets/textures/plaster-normal.jpg": [
+      "portable/assets_textures_plaster_normal_jpg.js"
+    ],
+    "assets/textures/plaster-roughness.jpg": [
+      "portable/assets_textures_plaster_roughness_jpg.js"
+    ],
+    "assets/textures/cloth-color.jpg": [
+      "portable/assets_textures_cloth_color_jpg.js"
+    ],
+    "assets/textures/cloth-normal.jpg": [
+      "portable/assets_textures_cloth_normal_jpg.js"
+    ],
+    "assets/textures/cloth-roughness.jpg": [
+      "portable/assets_textures_cloth_roughness_jpg.js"
+    ],
+    "assets/textures/altar-lotus-clouds.jpg": [
+      "portable/assets_textures_altar_lotus_clouds_jpg.js"
+    ]
+  }
+}
